@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/alexey--pavlov/">
   <img align="left" alt="Alexey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/21t5k7dbjcpanuyqgdsdyikrq?si=bce1e504c0ca492a">
-  <img align="left" alt="Alexey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br>
 
