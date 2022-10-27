@@ -22,7 +22,7 @@
 
 
 ## Contacts:
-- https://www.linkedin.com/in/alexey--pavlov/
+- https://www.linkedin.com/in/alex--pavlov/
 - https://t.me/ay_pvl
 - pavlov.aleksey.m@gmail.com
 
