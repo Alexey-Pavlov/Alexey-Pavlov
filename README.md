@@ -3,7 +3,7 @@
 <a href="https://twitter.com/ay_pavlov">
   <img align="left" alt="Alexey Pavlov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/alexey--pavlov/">
+<a href="https://www.linkedin.com/in/alex--pavlov/">
   <img align="left" alt="Alexey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -17,6 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
+![React](https://img.shields.io/badge/-react-454443?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 
 
