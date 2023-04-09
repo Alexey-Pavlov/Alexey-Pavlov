@@ -24,10 +24,11 @@ I have a strong foundation in front-end fundamentals and am proficient in a vari
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,svelte,html,css,sass,nestjs,prisma,tailwind,git,webpack,jquery,bootstrap,nodejs,jest,docker,gitlab,github,babel,materialui,idea,vscode,postman&perline=9)](https://skillicons.dev)
 
 
-## Contacts:
+## Where to find me
 - [linkedin.com/in/alex--pavlov](https://www.linkedin.com/in/alex--pavlov/)
 - [t.me/ay_pvl](https://t.me/ay_pvl)
 - [pavlov.aleksey.m@gmail.com](mailto:pavlov.aleksey.m@gmail.com)
+- [github.com/Alexey-Pavlov](https://github.com/Alexey-Pavlov)
 
 <br />
 
