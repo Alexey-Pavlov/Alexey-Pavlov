@@ -1,34 +1,33 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/ay_pavlov">
-  <img align="left" alt="Alexey Pavlov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/alex--pavlov/">
   <img align="left" alt="Alexey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://twitter.com/Alex_CurlyDev">
+  <img align="left" alt="Alex Dev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/ay_pavlov">
+  <img align="left" alt="Alexey's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
-<br>
 
-# Position: Frontend developer
+<br /><br />
 
-## Tech:
- 
-![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
-![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
-![React](https://img.shields.io/badge/-react-454443?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
+
+Hi, i'm a skilled developer with 4+ years of experience in full-stack web development. My experience includes working on projects in various areas such as telecom, investments, and sales. I have a strong foundation in front-end fundamentals and am proficient in a variety of languages and technologies including JavaScript, TypeScript, React, Vue.js, Node.js, and Docker. I take pride in delivering high-quality work and enjoy collaborating with others to solve complex problems. Looking forward to contributing to open-source projects and continuing to learn from the community!
+
+- 💼 any freelance work? do reach, [email](mailto:pavlov.aleksey.m@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+## Languages and tools  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,svelte,html,css,sass,nestjs,prisma,tailwind,git,webpack,jquery,bootstrap,nodejs,jest,docker,gitlab,github,babel,materialui,idea,vscode,postman&perline=9)](https://skillicons.dev)
 
 
 ## Contacts:
-- https://www.linkedin.com/in/alex--pavlov/
-- https://t.me/ay_pvl
-- pavlov.aleksey.m@gmail.com
+- [linkedin.com/in/alex--pavlov](https://www.linkedin.com/in/alex--pavlov/)
+- [t.me/ay_pvl](https://t.me/ay_pvl)
+- [pavlov.aleksey.m@gmail.com](mailto:pavlov.aleksey.m@gmail.com)
 
-
-[![OK-webdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Pavlov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Pavlov&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 ![Codewars](https://www.codewars.com/users/AyPavlov/badges/small)
