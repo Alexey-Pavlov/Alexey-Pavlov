@@ -14,7 +14,7 @@
 <br /><br />
 
 
-Hi, i'm a skilled developer with 4+ years of experience in full-stack web development. My experience includes working on projects in various areas such as telecom, investments, and sales. <br />
+Hi, i'm a skilled developer with 5+ years of experience in full-stack web development. My experience includes working on projects in various areas such as telecom, investments, and sales. <br />
 I have a strong foundation in front-end fundamentals and am proficient in a variety of languages and technologies including JavaScript, TypeScript, React, Redux, Next.js, Vue.js, NestJS, Node.js, and Docker. I take pride in delivering high-quality work and enjoy collaborating with others to solve complex problems. Looking forward to contributing to open-source projects and continuing to learn from the community!
 
 - 💼 any freelance work? do reach, [email](mailto:pavlov.aleksey.m@gmail.com) :)
